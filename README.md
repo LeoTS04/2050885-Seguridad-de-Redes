@@ -1,2 +1,1 @@
-# 2050885-Seguridad-de-Redes
-Repositorio para documentación de las practicas de seguridad de redes
+https://itlaedudo-my.sharepoint.com/:v:/g/personal/20250885_itla_edu_do/IQBAX9BwL8YLQY336T9_7xiaAWozJkIidy9HGIPkULZSILA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=V1Sovg
